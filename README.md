@@ -28,10 +28,10 @@ if conditionTwo {
 print("D")
 ```
 
-- **A**
-- B
-- **C**
-- **D**
+- [x] A
+- [ ] B
+- [x] C
+- [x] D
 
 ***
 ## Question 2
@@ -50,11 +50,11 @@ switch appInfo {
 }
 ```
 
-- appInfo.0 hasn't released yet
-- **myCoolApp hasn't released yet**
-- Thanks for looking at myCoolApp!
-- I'm not quite sure what you are looking at
-- It will give a compile-time error
+- [ ] appInfo.0 hasn't released yet
+- [x] myCoolApp hasn't released yet
+- [ ] Thanks for looking at myCoolApp!
+- [ ] I'm not quite sure what you are looking at
+- [ ] It will give a compile-time error
 
 ***
 ## Question 3
@@ -75,10 +75,10 @@ default:
 }
 ```
 
-- A
-- B
-- C
-- **D**
+- [ ] A
+- [ ] B
+- [ ] C
+- [x] D
 
 ***
 ## Question 4
@@ -98,10 +98,10 @@ case "snickers":
 }
 ```
 
-- No parentheses around the conditions
-- No opening and closing brackets in each of the cases
-- **No default case in the switch statement**
-- No print statement right outside the switch statement
+- [ ] No parentheses around the conditions
+- [ ] No opening and closing brackets in each of the cases
+- [x] No default case in the switch statement
+- [ ] No print statement right outside the switch statement
 
 ***
 ## Question 5
